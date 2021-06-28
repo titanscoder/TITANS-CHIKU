@@ -1,4 +1,4 @@
-Hey there❣️✌️We bring u our new powerful bot i.e., Chiku❣️. This bot is powered to you by- [#тнєтıтαηsηєтωσяks™](https://t.me/TitansNetworks)
+Hey there❣️✌️We bring you our new powerful bot i.e., Chiku❣️. This bot is powered to you by- [#тнєтıтαηsηєтωσяks™](https://t.me/TitansNetworks)
 
 [🇮🇳OWNER🇮🇳](https://t.me/Arpit_Sharma07)
 
