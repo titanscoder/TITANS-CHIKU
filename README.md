@@ -1,14 +1,13 @@
-This bot is powered to you by #тнєтıтαηsηєтωσяks™
-
+This bot is powered to you by- [#тнєтıтαηsηєтωσяks™](https://t.me/TitansNetworks)
 [🇮🇳OWNER🇮🇳](https://t.me/Arpit_Sharma07)
 
-[💐UPDATE CHANNEL☀️](https://t.me/ChikuNews)
+[💥UPDATE CHANNEL💥](https://t.me/ChikuNews)
 
-[💐SUPPORT GROUP🤍](https://t.me/ChikuSupport)
+[🤍SUPPORT🤍](https://t.me/ChikuSupport)
 
-[🌹CHIKU DEVS⚡️](https://t.me/chikudevs)
+[💙CHIKU DEVS💙](https://t.me/chikudevs)
 
-[TITANS HEART DEV❤️](https://t.me/realtitan)
+[❤️TITANS HEART DEV❤️](https://t.me/realtitan)
 <p align="center">
   <img src="https://telegra.ph/file/0e1e31bbf2098144f9679.jpg">
 </p>
