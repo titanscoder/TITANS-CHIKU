@@ -130,7 +130,6 @@ def get_readable_time(seconds: int) -> str:
 
 PM_START_TEXT = """
 ʜᴇʟʟᴏ [(•‿•)](https://telegra.ph/file/0e1e31bbf2098144f9679.jpg), ɪᴍ ❥𝚌𝓱ᵢ𝓴ᵤ♡ ᴀ ʜɪɢʜʏ ᴀᴅᴠᴀɴᴄᴇᴅ ʙᴏᴛ ᴡɪᴛʜ ʟᴏᴛꜱ ᴏꜰ ᴀᴍᴀᴢɪɴɢ ᴛᴏᴏʟꜱ.
- 
 `ɪ'ᴍ ʜᴇʀᴇ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘꜱ! ʜɪᴛ` /help   
 """
 
@@ -146,13 +145,14 @@ buttons = [
 
     [
 
-        InlineKeyboardButton(text="ᴀʙᴏᴜᴛ", callback_data="yone_"),
+        InlineKeyboardButton(text="ᴀʙᴏᴜᴛ", url="t.me/ChikuNews"),
 
         InlineKeyboardButton(
 
             text="ꜱᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{SUPPORT_CHAT}"
 
         ),
+InlineKeyboardButton(text="OWNER", url="t.me/Arpit_Sharma07"),
 
     ],
 
@@ -163,12 +163,12 @@ buttons = [
     ],
 
 ]
-  
-HELP_STRINGS = """
-`ʜɪ.. ɪ'ᴍ` [❥𝚌𝓱ᵢ𝓴ᵤ♡ ^_^](https://telegra.ph/file/9d4fad23d6cd49a1f4924.jpg) 
-`ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴏᴄᴜᴍᴇɴᴛᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ꜱᴘᴇᴄɪꜰɪᴄ ᴍᴏᴅᴜʟᴇꜱ..`"""
 
-yone_IMG = "https://telegra.ph/file/9d4fad23d6cd49a1f4924.jpg"
+HELP_STRINGS = """
+`ʜɪ.. ɪ'ᴍ` [❥𝚌𝓱ᵢ𝓴ᵤ♡ ^_^](https://telegra.ph/file/a2674ccb56045a5b492e3.jpg) 
+`CLICK ON THE GIVEN BUTTONS AS BELOW FOR  INFORMATION ABOUT ALL COMMANDS AND MODULES..`"""
+
+yone_IMG = "https://telegra.ph/file/a2674ccb56045a5b492e3.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
  You can support the project via [Paypal](#) or by contacting @Arpit_Sharma07 \
