@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://telegra.ph/file/4c3a9d7087d4906cb771c.jpg">
+  <img src="https://telegra.ph/file/0e1e31bbf2098144f9679.jpg">
 </p>
 
 # chikubot
-Me On Telegram [✨Yone✨](https://t.me/YoneRobot)
+Me On Telegram [🍁CHIKU🍁](https://t.me/MissChiku_Bot)
 
 ## How To Host
 The easiest way to deploy this Bot
@@ -11,12 +11,15 @@ The easiest way to deploy this Bot
  
 CREDITS
 ```
-❤️ yonerobot = kittu 
-❤️ sandrabot = shubham
-❤️chief  = parv
+❤️ yonerobot = kittu 🌹
+❤️ sandrabot = shubham🌹
+❤️chief  = parv 🌹
 
-THE BOT IS PART OF TITANS NETWORK AND CREATED BY @MASKEDCODER (t.me/maskedcoder)
+THE BOT IS PART OF TITANS NETWORK AND CREATED BY @MASKEDCODER ( t.me/maskedcoder )
 
-
-
+TELEGRAM SUPPORT LINKS
+UPDATE CHANNEL- https://t.me/ChikuNews
+SUPPORT GROUP- https://t.me/ChikuSupport
+CHIKU DEVS- https://t.me/chikudevs
+TITANS HERAT DEV- https://t.me/realtitan
 ```
