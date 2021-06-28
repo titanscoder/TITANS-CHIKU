@@ -1,9 +1,9 @@
-THE BOT IS PART OF TITANS NETWORK AND CREATED BY TITANS DEVS-
-
+This bot is powered to you by #тнєтıтαηsηєтωσяks™-
+[💫OWNER OF THE BOT💫](https://t.me/Arpit_Sharma07)
 [💐UPDATE CHANNEL☀️](https://t.me/ChikuNews)
 [💐SUPPORT GROUP🤍](https://t.me/ChikuSupport)
 [🌹CHIKU DEVS⚡️](https://t.me/chikudevs)
-[TITANS HERAT DEV❤️](https://t.me/realtitan)
+[TITANS HEART DEV❤️](https://t.me/realtitan)
 <p align="center">
   <img src="https://telegra.ph/file/0e1e31bbf2098144f9679.jpg">
 </p>
