@@ -96,10 +96,7 @@ buttons = [
 ]
 
 
-HELP_STRINGS = """
-I am a gay."""
-
-yone_IMG = "https://telegra.ph/file/a2674ccb56045a5b492e3.jpg"
+HELP_STRINGS = """I am a gay."""
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
  You can support the project via [Paypal](#) or by contacting @kittu5588 \
