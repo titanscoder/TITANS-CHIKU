@@ -96,8 +96,8 @@ buttons = [
 ]
 
 
-HELP_STRINGS = """              
-ʜɪ.. ɪ'ᴍ [❥𝚌𝓱ᵢ𝓴ᵤ♡ ^_^](https://telegra.ph/file/a2674ccb56045a5b492e3.jpg)"""
+HELP_STRINGS = """
+I am a gay."""
 
 yone_IMG = "https://telegra.ph/file/a2674ccb56045a5b492e3.jpg"
 
