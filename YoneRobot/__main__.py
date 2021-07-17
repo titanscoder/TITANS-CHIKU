@@ -97,7 +97,8 @@ buttons = [
 
 
 HELP_STRINGS = """              
-CLICK ON THE GIVEN BUTTONS AS BELOW FOR  INFORMATION ABOUT ALL COMMANDS AND MODULES."""
+ʜɪ.. ɪ'ᴍ [❥𝚌𝓱ᵢ𝓴ᵤ♡ ^_^](https://telegra.ph/file/a2674ccb56045a5b492e3.jpg) 
+CLICK ON THE GIVEN BUTTONS AS BELOW FOR  INFORMATION ABOUT ALL COMMANDS AND MODULES.."""
 
 yone_IMG = "https://telegra.ph/file/7e61fe06a9c02747249c4.jpg"
 
