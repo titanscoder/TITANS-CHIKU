@@ -97,10 +97,9 @@ buttons = [
 
 
 HELP_STRINGS = """              
-ʜɪ.. ɪ'ᴍ [❥𝚌𝓱ᵢ𝓴ᵤ♡ ^_^](https://telegra.ph/file/a2674ccb56045a5b492e3.jpg) 
-CLICK ON THE GIVEN BUTTONS AS BELOW FOR  INFORMATION ABOUT ALL COMMANDS AND MODULES.."""
+ʜɪ.. ɪ'ᴍ [❥𝚌𝓱ᵢ𝓴ᵤ♡ ^_^](https://telegra.ph/file/a2674ccb56045a5b492e3.jpg)"""
 
-yone_IMG = "https://telegra.ph/file/7e61fe06a9c02747249c4.jpg"
+yone_IMG = "https://telegra.ph/file/a2674ccb56045a5b492e3.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
  You can support the project via [Paypal](#) or by contacting @kittu5588 \
