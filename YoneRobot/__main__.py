@@ -77,8 +77,6 @@ PM_START_TEXT = """
 ʜᴇʟʟᴏ [(•‿•)](https://telegra.ph/file/0e1e31bbf2098144f9679.jpg), ɪᴍ ❥𝚌𝓱ᵢ𝓴ᵤ♡ ᴀ ʜɪɢʜʏ ᴀᴅᴠᴀɴᴄᴇᴅ ʙᴏᴛ ᴡɪᴛʜ ʟᴏᴛꜱ ᴏꜰ ᴀᴍᴀᴢɪɴɢ ᴛᴏᴏʟꜱ.
 ɪ'ᴍ ʜᴇʀᴇ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘꜱ! ʜɪᴛ /help   
 """
-"""
-
 buttons = [
     [
         InlineKeyboardButton(
