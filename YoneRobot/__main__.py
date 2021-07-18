@@ -100,7 +100,7 @@ DATA_EXPORT = []
 CHAT_SETTINGS = {}
 USER_SETTINGS = {}
 for module_name in ALL_MODULES:
-    imported_module = importlib.import_module("EvilBot.modules." + module_name)
+    imported_module = importlib.import_module("YoneRobot.modules." + module_name)
     if not hasattr(imported_module, "__mod_name__"):
         imported_module.__mod_name__ = imported_module.__name__
     if imported_module.__mod_name__.lower() not in IMPORTED:
