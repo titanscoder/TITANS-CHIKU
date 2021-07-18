@@ -96,7 +96,8 @@ buttons = [
 ]
 
 
-HELP_STRINGS = """I am a gay."""
+HELP_STRINGS = """
+`I am a gay..`"""
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
  You can support the project via [Paypal](#) or by contacting @kittu5588 \
