@@ -46,8 +46,6 @@ from telegram.ext import (
 )
 from telegram.ext.dispatcher import DispatcherHandlerStop, run_async
 from telegram.utils.helpers import escape_markdown
-
-
 def get_readable_time(seconds: int) -> str:
     count = 0
     ping_time = ""
@@ -69,10 +67,7 @@ def get_readable_time(seconds: int) -> str:
 
     time_list.reverse()
     ping_time += ":".join(time_list)
-
     return ping_time
-
-
 PM_START_TEXT = """
 ʜᴇʟʟᴏ [(•‿•)](https://telegra.ph/file/0e1e31bbf2098144f9679.jpg), ɪᴍ ❥𝚌𝓱ᵢ𝓴ᵤ♡ ᴀ ʜɪɢʜʏ ᴀᴅᴠᴀɴᴄᴇᴅ ʙᴏᴛ ᴡɪᴛʜ ʟᴏᴛꜱ ᴏꜰ ᴀᴍᴀᴢɪɴɢ ᴛᴏᴏʟꜱ.
 ɪ'ᴍ ʜᴇʀᴇ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘꜱ! ʜɪᴛ /help   
