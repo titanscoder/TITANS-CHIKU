@@ -100,10 +100,9 @@ HELP_STRINGS = """
 `I am a gay..`"""
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
- You can support the project via [Paypal](#) or by contacting @kittu5588 \
- Supporting isnt always financial! \
- Those who cannot provide monetary support are welcome to help us develop the bot at ."""
-
+You can support the project via [Paypal](#) or by contacting @kittu5588 \
+Supporting isnt always financial! \
+Those who cannot provide monetary support are welcome to help us develop the bot at ."""
 IMPORTED = {}
 MIGRATEABLE = []
 HELPABLE = {}
