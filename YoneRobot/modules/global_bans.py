@@ -163,11 +163,11 @@ def gban(update, context):
         if not reason:
             noreason = "No Reason Given"
             bot.send_message(
-                owner_id, "<b>New GBAN Request\nUser</b>: {}\nReason: <code>{}</code> \nRequest By Enforcer: {}".format(mention_html(user_id, user_chat.first_name), noreason, mention_html(banner.id, banner.first_name)), parse_mode=ParseMode.HTML, reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="Accept✅", callback_data="gbanbtn".format(user_id, noreason)), InlineKeyboardButton(text="Decline❌", callback_data="gbancancel")]]))
+                owner_id, "<b>New GBAN Request\nUser</b>: {}\nReason: <code>{}</code> \nRequest By Enforcer: {}".format(mention_html(user_id, user_chat.first_name), noreason, mention_html(banner.id, banner.first_name)), parse_mode=ParseMode.HTML, reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="Accept✅", callback_data="gbanbtn_".format(user_id, noreason)), InlineKeyboardButton(text="Decline❌", callback_data="gbancancel")]]))
             
         else:
             bot.send_message(
-                owner_id, "New GBAN Request\nUser: {}\nReason: <code>{}</code> \nRequest By Enforcer: {}".format(mention_html(user_id, user_chat.first_name), reason, mention_html(banner.id, banner.first_name)), parse_mode=ParseMode.HTML, reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="Accept✅", callback_data="gbanbtn".format(user_id, reason)), InlineKeyboardButton(text="Decline❌", callback_data="gbancancel")]]))
+                owner_id, "New GBAN Request\nUser: {}\nReason: <code>{}</code> \nRequest By Enforcer: {}".format(mention_html(user_id, user_chat.first_name), reason, mention_html(banner.id, banner.first_name)), parse_mode=ParseMode.HTML, reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="Accept✅", callback_data="gbanbtn_".format(user_id, reason)), InlineKeyboardButton(text="Decline❌", callback_data="gbancancel")]]))
     except:
         update.effective_message.reply_text("Failed To GBAN")
         return
