@@ -26,6 +26,5 @@ CREDITS
 ❤️ sandrabot = shubham🌹
 ❤️chief  = parv 🌹
 
- 
- 
-```
+ Special Thanks To :
+🔸[Elric](https://github.com/ElricZ
