@@ -66,7 +66,7 @@ RUN apt update && apt upgrade -y && \
 RUN pip3 install --U pip setuptools wheel
 
 # Copy Python Requirements to /root/YoneRobot
-RUN git clone https://github.com/titanscoder/TITANS-CHIKU /root/YoneRobot
+RUN git clone -b Kittu https://github.com/titanscoder/TITANS-CHIKU /root/YoneRobot
 WORKDIR /root/YoneRobot
 
 #Copy config file to /root/YoneRobot/YoneRobot
