@@ -39,7 +39,7 @@ ujson
 pretty_errors
 TgCrypto
 Pyrogram
-youtube-dl
+https://github.com/buddhhu/youtube-dl/archive/refs/heads/master.zip
 youtube_search_python
 youtube_search
 asyncio
