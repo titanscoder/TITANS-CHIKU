@@ -1,6 +1,7 @@
 # We're using Debian Slim Buster image
-FROM python:3.8.5-slim-buster
-
+FROM python:3.10.1-slim-buster
+RUN export DEBIAN_FRONTEND=noninteractive
+RUN mkdir -p /usr/share/man/man1
 ENV PIP_NO_CACHE_DIR 1
 
 RUN sed -i.bak 's/us-west-2\.ec2\.//' /etc/apt/sources.list
@@ -62,10 +63,10 @@ RUN apt update && apt upgrade -y && \
     && rm -rf /var/lib/apt/lists /var/cache/apt/archives /tmp
 
 # Pypi package Repo upgrade
-RUN pip3 install --upgrade pip setuptools
+RUN pip3 install --U pip setuptools wheel
 
 # Copy Python Requirements to /root/YoneRobot
-RUN git clone -b shiken https://github.com/noob-kittu/YoneRobot /root/YoneRobot
+RUN git clone https://github.com/titanscoder/TITANS-CHIKU /root/YoneRobot
 WORKDIR /root/YoneRobot
 
 #Copy config file to /root/YoneRobot/YoneRobot
